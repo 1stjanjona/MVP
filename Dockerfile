@@ -1,3 +1,15 @@
+FROM ubuntu:20.04
+
+# Install necessary tools
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    wget \
+    curl \
+    git
+
+# Install the latest glibc
+RUN apt-get update && apt-get install -y glibc-source glibc-doc
+
 # Use the official Node.js image from the Docker Hub
 FROM node:16
 
