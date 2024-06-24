@@ -1,3 +1,4 @@
 "scripts": {
-  "build": "babel src --out-dir lib"
+  "build": "babel src --out-dir lib",
+  "start": "node lib/index.js"
 }
