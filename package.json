@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }

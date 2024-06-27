@@ -1,8 +1,10 @@
 import { configureStore } from '@reduxjs/toolkit';
 import coffeeReducer from './coffeeSlice';
 
-export const store = configureStore({
+const store = configureStore({
   reducer: {
     coffee: coffeeReducer,
   },
 });
+
+export default store;
