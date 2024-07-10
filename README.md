@@ -32,20 +32,20 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Screenshot
 
-![Screenshot](path_to_screenshot.png)
-
 ## Inspiration and Technical Challenges
 
-### Inspiration
+Inspiration
 Growing up, my mornings always began with the rich aroma of freshly brewed coffee, setting a positive tone for the day. This passion for coffee inspired me to create TrustedCoffee, a platform where users can easily find and purchase their favorite coffee products.
 
-### Technical Challenges
+Technical Challenges
 One of the most significant challenges was resolving GLIBC compatibility issues using Docker. This involved containerizing the application to ensure smooth deployment across various environments. You can read more about this in my detailed [blog post](link_to_blog_post).
 
-## About Me
+About Me
 
 I am a passionate software developer with a love for coffee and technology. This project has allowed me to blend my interests and create something meaningful.
 
-- **GitHub:** [TrustedCoffee Repository](https://github.com/1stjanjona/trustedcoffee)
-- **Deployed Project:** [TrustedCoffee Website](https://trustedcoffee.yoursite.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- GitHub: (https://github.com/1stjanjona/trustedcoffee)
+- Deployed Project: (https://trustedcoffee.yoursite.com)
+- LinkedIn: (https://www.linkedin.com/in/yourprofile)
+- Landing page: [(https://trustedcoffee.my.canva.site/coffee)]
+- 
